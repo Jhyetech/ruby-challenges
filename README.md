@@ -14,7 +14,8 @@
     `git add . && git commit -m "<insert commit message>"`
     6. Checkout master branch and merge challenge branch:<br/>
     `git checkout master && git merge <challenge_branch>`
-    7. Push to master in your fork:<br/>
+    7. Push to master in your fork:<br/>3rd place
+
      `git push origin master`
 
 ## List of challenge branches
